@@ -1,0 +1,5 @@
+
+
+cd plate_project
+
+.\venv312\Scripts\python detect_rec.py --weights best.pt --source 

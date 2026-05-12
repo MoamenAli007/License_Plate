@@ -1,0 +1,263 @@
+[2026-04-25 12:11:09] plate='٢٣٤٩نو ص'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:13:43] plate='٢ ٣ ٤ ٩ ن و ص'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:14:33] plate='٢ ٣ ٤ ٩ ن و ص'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:18:52] plate='٢ ٣ ٤ ٩ ن و ص'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:19:53] plate='٢ ٣ ٤ ٩ ن و ص'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:22:22] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:24:47] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:26:51] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-25 12:30:39] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-25 12:33:21] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-25 12:34:21] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:37:08] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=plate.jpg
+[2026-04-25 12:38:21] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=plate.jpg
+[2026-04-25 12:39:34] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=plate.jpg
+[2026-04-25 12:40:41] plate='١ ٢ ٦ ٤'  status=UNKNOWN - ACCESS DENIED  source=test_plate.png
+[2026-04-25 12:50:15] plate='و م  ٤ ٧ ٤  T P 6 E'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-25 12:54:45] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:56:14] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 12:56:51] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=plate.jpg
+[2026-04-25 13:00:42] plate='ر و ص  ١ . ٥'  status=UNKNOWN - ACCESS DENIED  source=plate.jpg
+[2026-04-25 13:01:45] plate='ر و ص  ١ ٥'  status=UNKNOWN - ACCESS DENIED  source=plate.jpg
+[2026-04-25 13:03:26] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=plate.jpg
+[2026-04-25 13:17:14] plate='ص و ن ٤ ٣ ٢  T P V G E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:17:17] plate='ص و ن ٤ ٣ ٢  T P G E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:17:20] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:17:23] plate='ص و ن ٤ ٣ ٢  E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:17:29] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:17:32] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:17:35] plate='ص و ن ٩ ٤ ٣ ٢  T P G E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:19:41] plate='ص و  ن ٢  E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:19:49] plate='ص و ن ٩ ٩ ٤ ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:19:52] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:19:55] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:19:58] plate='ص و ز  ٩ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:03] plate='ر و ص :'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:06] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:20:21] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:20:24] plate='ر و ص  ١ , ٥'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:27] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:20:30] plate='ل  ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:32] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:20:35] plate='و و ف ة  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:37] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:20:45] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:49] plate='ص و ن ٤ ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:51] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:54] plate='ص و ر  ن ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:57] plate='ص و ن  ن ٣ ٢  E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:20:59] plate='ص و ن ٤ ٣ ٢  E ٧ T p'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:03] plate='ص و  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:05] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:08] plate='ص و ن ٤ ٣ ٢  G E ٧ T p'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:10] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:15] plate='ص و  ن ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:20] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:23] plate='ص و  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:28] plate='ص و  ن ٢  T p Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:31] plate='ص و  ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:33] plate='ص و  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:36] plate='ص و  ٢ ,'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:39] plate='ص و  ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:41] plate='ص و  ن ٢ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:44] plate='ص و  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:46] plate='ص و  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:49] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:52] plate='ص و ر  ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:54] plate='ص و ن ٤ ٣ ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:21:57] plate='ص و  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:22:00] plate='ص و  ن ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:22:04] plate='ص و ن ٤ ٣ ٢  T p Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:22:07] plate='ص و  ن ٢  T p E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:22:13] plate='و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:22:16] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:18] plate='و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:22:21] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:24] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:26] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:29] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:31] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:34] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:36] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:22:39] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:25:23] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:25:27] plate='١  ر و ص  ١ , ٥'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:29] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:25:32] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:25:35] plate='١  ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:38] plate='ر  و ص'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:43] plate='ص و  ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:46] plate='G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:46] plate='ص و ز  ٩ ٣ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:49] plate='ص و ن ٩ ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:53] plate='ص و ن ٤ ٣ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:55] plate='ص و ن ٤ ٣ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:25:58] plate='ص و ن ٩ ٤ ٣ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:01] plate='ص و ن ٩ ٩ ٤ ٢  E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:04] plate='ص و ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:06] plate='ص و ن ٩ ٤ ٣ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:07] plate='G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:10] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:10] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:14] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:16] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:26:19] plate='ص و ن ٩ ٩ ٤ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:23] plate='ص و ن  ن ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:23] plate='ص و ن  ٩ ٣ ٢ .'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:26] plate='ص و ن ٤ ٣ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:29] plate='ص و  ن ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:32] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:35] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:26:38] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:43] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:49] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:54] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:26:57] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:27:04] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:27:07] plate='ص و ن ٤ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:27:32] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:27:34] plate='ر و ص  ١ ١ , ٥'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:27:37] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:27:40] plate='ر و ص  ١ ٥'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 13:27:43] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 13:27:46] plate='ر  و ص'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:14:12] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 15:26:58] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 15:32:28] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 15:33:38] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 15:34:44] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-25 15:36:18] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-25 15:55:01] plate='ص و ن ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-25 15:56:10] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-25 15:58:38] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:58:42] plate='ر و ص'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:58:45] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:58:49] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:58:52] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:58:55] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:58:58] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:59:04] plate='ر و ص ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:59:08] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 15:59:15] plate='ر و ص ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:11] plate='ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:12] plate='٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:14] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:15] plate='٥  ر و ص  ٤  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:16] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:18] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:19] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:20] plate='١ ٥  ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:21] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:23] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:26] plate='ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:29] plate='ر و ص  ٥ ٦ ١  ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:30] plate='٥  ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:31] plate='ل  ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:34] plate='٥  ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:35] plate='٥  ر و ص  ٥ ٦ ١  ٧'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:36] plate='ر و ص  ٥ ٦ ١  ٥'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:38] plate='ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:40] plate='١ ٥  ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:42] plate='٥ ل  ر و ص :  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:49] plate='و  ن ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:51] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:52] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:55] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:56] plate='ص و ز  ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:57] plate='ص و ز  ٩ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:02:57] plate='و  ٩ ٣ ٢ .'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:00] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:00] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:02] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:03] plate='ص و ر  ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:04] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:05] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:03:06] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:07] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:08] plate='ص و ن ٩ ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:09] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:10] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:14] plate='ص و ن ٩ ٤ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:15] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:17] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:18] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:03:19] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:04] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:09:06] plate='ص و  ا ت و'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:07] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:09] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:09:10] plate='ص و ز  ٩ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:14] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:16] plate='ص و ر  ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:17] plate='ص ص ر  و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:18] plate='ص و ٩ ٤ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:19] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:24] plate='ص و ن ٩ ٩ ٤ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:28] plate='ص و ر  ٩ ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:31] plate='ص و ن ٩ ٤ ٢  G E ٧ T'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:32] plate='ص و ر  ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:35] plate='ص و ن ٩ ٤ ٢  G E ٧ T P'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:37] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:09:39] plate='ص و ن ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:43] plate='ص و ن ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:44] plate='ص و ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:46] plate='م ص ي ر  ص ن ٤ ٢  T P Y E'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:52] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:09:53] plate='١ ١ ,  ر و ص  ٤ ٥  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:09:58] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:10:02] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:10:03] plate='ر و ص :  ٥  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:10:08] plate='ر و ص  ٥ ٢ ٦  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:10:11] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:10:11] plate='ر و ص  ٤ ٤ ٦  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:10:15] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:10:16] plate='ر و ص  ٥ ٦ ١  ٥'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:10:17] plate='ا  ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:10:21] plate='ر و ص :  ٥  ٥ ٦ ١  ى'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-25 16:10:27] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-25 16:10:32] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-27 18:43:01] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-27 18:45:20] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-27 18:46:15] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-27 18:47:13] plate='و م  ٤ ٧ ٤  6'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 18:50:38] plate='و م  ٤ ٧ ٤'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 18:54:30] plate='و  ٤ ٧ ٤ د'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 18:55:26] plate='و  ٤ ٧ ٤ د'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 18:58:14] plate='٤ ٧ ٤ د'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 19:02:35] plate='٤ ٧ ٤ د'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 19:02:52] plate='ع ٧ ١ ٤ ٤'  status=UNKNOWN - ACCESS DENIED  source=LP1.jpg
+[2026-04-27 19:05:09] plate='٢ ٤ ٧ ٦ ٤'  status=UNKNOWN - ACCESS DENIED  source=test.jpeg
+[2026-04-27 19:05:45] plate='ص و ٤ ١'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-27 19:05:47] plate='م ص م ر  ٧'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-27 19:07:07] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-27 19:07:09] plate='م ص ي ر'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-27 19:10:09] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-04-27 19:10:11] plate='م ص ي ر'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-04-27 19:11:36] plate='م ض  أ ق ٧ ١ ٤'  status=UNKNOWN - ACCESS DENIED  source=LP1.jpg
+[2026-04-27 19:14:07] plate='٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:14:08] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:10] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:15] plate='١ ٥  ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:14:19] plate='ر و ص  ٥ ٦ ١  ٢ ٦'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:14:20] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:21] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:22] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:33] plate='ص و  ن ٢ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:14:35] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:14:40] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:45] plate='ص و  ن ٢ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:14:49] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:50] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:14:55] plate='ص و  ن ٢ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:15:01] plate='ا ص ص و  ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:15:04] plate='ص و ن ٩ ٩ ٤ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:15:05] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-04-27 19:15:06] plate='ص و ن ٤ ٣ ٢'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:15:11] plate='ص و ن ٩ ٤ ٣ ٢  ٧'  status=UNKNOWN - ACCESS DENIED  source=webcam
+[2026-04-27 19:15:12] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=webcam
+[2026-05-01 23:12:12] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-05-01 23:12:14] plate='م ص ي ر'  status=UNKNOWN - ACCESS DENIED  source=KK.jpg
+[2026-05-01 23:15:34] plate='ص و ن ٩ ٤ ٣ ٢'  status=AUTHORIZED  source=KK.jpg
+[2026-05-01 23:16:18] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=plate.jpg
+[2026-05-01 23:31:00] plate='ر و ص  ٥ ٦ ١'  status=AUTHORIZED  source=plate.jpg
+[2026-05-01 23:32:19] plate='ر و ص  ٥ ٦ ١'  status=UNKNOWN - ACCESS DENIED  source=plate.jpg
